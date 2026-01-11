@@ -33,17 +33,6 @@
 - **🇦🇱 ALB:** Unë ndërtoj infrastrukturën e suksesit tuaj. Zhvilloj CRM të personalizuara (Laravel), Automatizime Marketingu dhe Landing Page me konvertim të lartë. Sisteme që punojnë për ju 24/7.
 
 ---
-## ⚖️ Marketer vs. Marketing Engineer: Why the difference matters
-
-| Feature | Traditional Marketer | **Fatjon Hoxha (The Engineer)** |
-| :--- | :--- | :--- |
-| **Strategy** | Intuition & "Vanity Metrics" | **Data-Driven & ROI Focused** |
-| **Tracking** | Basic Pixel (loses ~30% of data) | **Server-Side Intelligence (GTM + CAPI)** |
-| **Tech Stack** | Standard "Off-the-shelf" tools | **Custom CRM & Laravel Automation** |
-| **Execution** | Manual & Fragmented | **Automated & Integrated Ecosystems** |
-| **Goal** | More Traffic | **More Profit & Scalable Assets** |
-
----
 
 ## 🛠 Tech Stack & Ecosystem (The Growth Engine)
 
@@ -74,4 +63,14 @@
 - 📧 **Direct Contact:** [tonny3584@gmail.com](mailto:tonny3584@gmail.com)
 
 ---
+## ⚖️ Marketer vs. Marketing Engineer: Why the difference matters
+
+| Feature | Traditional Marketer | **Fatjon Hoxha (The Engineer)** |
+| :--- | :--- | :--- |
+| **Strategy** | Intuition & "Vanity Metrics" | **Data-Driven & ROI Focused** |
+| **Tracking** | Basic Pixel (loses ~30% of data) | **Server-Side Intelligence (GTM + CAPI)** |
+| **Tech Stack** | Standard "Off-the-shelf" tools | **Custom CRM & Laravel Automation** |
+| **Execution** | Manual & Fragmented | **Automated & Integrated Ecosystems** |
+| **Goal** | More Traffic | **More Profit & Scalable Assets** |
+
 *"Strategy without execution is hallucination. Execution without strategy is a nightmare. I provide both."*
