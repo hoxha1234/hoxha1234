@@ -40,8 +40,9 @@
 | :--- | :--- |
 | **Development** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white) |
 | **Data & Intelligence** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Looker](https://img.shields.io/badge/-Looker_Studio-4285F4?logo=googledatastudio&logoColor=white) |
-| **Marketing & SEO** | ![Google Ads](https://img.shields.io/badge/-Google_Ads-4285F4?logo=googleads&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-00C853) ![SEM](https://img.shields.io/badge/-SEM-FF6D00) |
-| **Design & UX** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) |
+| **Marketing & SEO** | ![Google Ads](https://img.shields.io/badge/-Google_Ads-4285F4?logo=googleads&logoColor=white) ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white) ![GA4](https://img.shields.io/badge/Google_Analytics_4-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-00C853) ![SEM](https://img.shields.io/badge/-SEM-FF6D00) |
+| **Design & UX** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white) | 
 
 ---
 
