@@ -1,62 +1,63 @@
 # 👋 Hi there, I'm Fatjon Hoxha
-### Marketing Engineer | Strategic Consultant | Data Analyst
-
-I bridge the gap between marketing strategy and technical execution. I help businesses bring order to their marketing efforts through data-driven audits and expert direction.
-
----
-
-## 💼 My Professional Services
-
-### 1️⃣ Audit Strategico di Marketing
-**Scopo:** Portare ordine e chiarezza nel marketing aziendale.
-- **Cosa faccio:** Analisi completa di canali, processi e flussi di acquisizione. Individuazione di sprechi, incoerenze e priorità.
-- **Output:** Documento di audit, Roadmap operativa a 90 giorni e raccomandazioni strategiche chiare.
-
-### 2️⃣ Direzione Marketing Estesa
-**Scopo:** Essere la regia unica del marketing dell’azienda.
-- **Cosa faccio:** Definizione delle priorità, allineamento marketing–business, coordinamento di team interni/fornitori e controllo risultati.
-- **Output:** Piano operativo mensile, decisioni strategiche documentate e controllo coerenza attività.
-
-### 3️⃣ Esecuzione Strategica
-**Scopo:** Implementare solo le attività previste dalla strategia.
-- **Cosa faccio:** Supervisione e controllo qualità, esecuzione diretta su attività selezionate (Ads, Landing Page, Automation) e coordinamento fornitori.
-- **Output:** Progetti eseguiti con obiettivi definiti e deliverable coerenti con la roadmap.
+### Strategic Marketing Engineer | Data-Driven Architect
+🌐 [www.fatjonhoxha.it](https://www.fatjonhoxha.it)
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 💎 Soluzioni Professionali / Professional Services / Shërbime Profesionale
 
-#### 👨‍💻 Development & Databases
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🎯 1. Audit Strategico di Marketing
+**VALORE:** *Smetti di sprecare budget. Ottieni chiarezza assoluta.*
+- **ITA:** Analisi profonda dei flussi di acquisizione per eliminare gli sprechi e definire una roadmap a 90 giorni focalizzata sui risultati.
+- **ENG:** Deep analysis of acquisition funnels to eliminate waste and define a 90-day result-oriented roadmap.
+- **ALB:** Analizë e thellë e flukseve të blerjeve për të eliminuar shpenzimet e tepërta dhe për të përcaktuar një udhërrëfyes 90-ditor të fokusuar te rezultatet.
+
+### 🧠 2. Direzione Marketing Estesa (Fractional CMO)
+**VALORE:** *La tua strategia sotto controllo, senza il costo di un dirigente full-time.*
+- **ITA:** Gestione completa: allineamento obiettivi business-marketing, coordinamento team/fornitori e monitoraggio costante dei KPI.
+- **ENG:** Full management: aligning business goals with marketing, coordinating teams/vendors, and constant KPI monitoring.
+- **ALB:** Menaxhim i plotë: përshtatja e objektivave të biznesit me marketingun, koordinimi i ekipeve/furnitorëve dhe monitorimi i vazhdueshëm i KPI-ve.
+
+### ⚡ 3. Esecuzione Strategica & Automation
+**VALORE:** *Sistemi che lavorano per te, non il contrario.*
+- **ITA:** Implementazione tecnica di precisione: Landing Pages, Marketing Automation e campagne Ads ottimizzate per la conversione.
+- **ENG:** Precision technical implementation: Conversion-optimized Landing Pages, Marketing Automation, and Ads campaigns.
+- **ALB:** Implementimi teknik i saktësisë: Landing Pages, Marketing Automation dhe fushata Ads të optimizuara për konvertim.
+
+---
+
+### 🛠 Tech Stack & Expertise
+
+**💻 Coding & Systems:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 📊 Marketing, Data & SEO
-![ADS](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)
+**📊 Data & Marketing:**
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Data Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-00C853?style=for-the-badge)
-![SEM](https://img.shields.io/badge/SEM-FF6D00?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### 🎨 UI/UX & Creative Design
+**🎨 Design & UX:**
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analysis
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hoxha1234&show_icons=true&theme=default&hide=stars&count_private=true" alt="Fatjon's Stats" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=hoxha1234&show_icons=true&theme=default&count_private=true" alt="Fatjon Stats" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoxha1234&layout=compact&theme=default" alt="Top Langs" width="300">
 </p>
 
 ---
 
-### 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatjon-hoxha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonny3584@gmail.com)
+### 📫 Let's Build Something Great
+- 🌍 **Official Website:** [www.fatjonhoxha.it](https://www.fatjonhoxha.it)
+- 💼 **LinkedIn:** [linkedin.com/in/fatjon-hoxha](https://www.linkedin.com/in/fatjon-hoxha/)
+- 📧 **Email:** tonny3584@gmail.com
