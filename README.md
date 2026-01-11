@@ -33,6 +33,17 @@
 - **🇦🇱 ALB:** Unë ndërtoj infrastrukturën e suksesit tuaj. Zhvilloj CRM të personalizuara (Laravel), Automatizime Marketingu dhe Landing Page me konvertim të lartë. Sisteme që punojnë për ju 24/7.
 
 ---
+## ⚖️ Marketer vs. Marketing Engineer: Why the difference matters
+
+| Feature | Traditional Marketer | **Fatjon Hoxha (The Engineer)** |
+| :--- | :--- | :--- |
+| **Strategy** | Intuition & "Vanity Metrics" | **Data-Driven & ROI Focused** |
+| **Tracking** | Basic Pixel (loses ~30% of data) | **Server-Side Intelligence (GTM + CAPI)** |
+| **Tech Stack** | Standard "Off-the-shelf" tools | **Custom CRM & Laravel Automation** |
+| **Execution** | Manual & Fragmented | **Automated & Integrated Ecosystems** |
+| **Goal** | More Traffic | **More Profit & Scalable Assets** |
+
+---
 
 ## 🛠 Tech Stack & Ecosystem (The Growth Engine)
 
@@ -40,8 +51,7 @@
 | :--- | :--- |
 | **Development** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white) |
 | **Data & Intelligence** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Looker](https://img.shields.io/badge/-Looker_Studio-4285F4?logo=googledatastudio&logoColor=white) |
-| **Marketing & SEO** | ![Google Ads](https://img.shields.io/badge/-Google_Ads-4285F4?logo=googleads&logoColor=white) ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?logo=meta&logoColor=white) ![GA4](https://img.shields.io/badge/Google_Analytics_4-4285F4?logo=googleanalytics&logoColor=white)
-![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?logo=googletagmanager&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-00C853) ![SEM](https://img.shields.io/badge/-SEM-FF6D00) |
+| **Marketing & SEO** | ![Google Ads](https://img.shields.io/badge/-Google_Ads-4285F4?logo=googleads&logoColor=white) ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?logo=meta&logoColor=white) ![GA4](https://img.shields.io/badge/Google_Analytics_4-4285F4?logo=googleanalytics&logoColor=white) ![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?logo=googletagmanager&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-00C853) ![SEM](https://img.shields.io/badge/-SEM-FF6D00) |
 | **Design & UX** | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) ![InDesign](https://img.shields.io/badge/InDesign-FF3366?logo=adobeindesign&logoColor=white) | 
 
 ---
